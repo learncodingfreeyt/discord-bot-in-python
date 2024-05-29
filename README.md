@@ -10,7 +10,11 @@ A simple Discord bot implemented in Python using py-cord. The bot includes a rea
     ```
 2. **Configure the bot**:
     Replace `"TOKEN"` in the `bot.run("TOKEN")` line of the script with your bot's actual token.
-   
+3. **Install py-cord**:
+    Download with pip and command
+    ```cmd
+    pip install py-cord
+    ```
 3. **Run the bot**:
     ```sh
     python bot.py
